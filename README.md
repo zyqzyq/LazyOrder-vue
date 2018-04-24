@@ -5,7 +5,7 @@
 
   选择困难症和懒人的福音，你再也不用为每天去哪里吃，每天吃什么而纠结。
 
-android版地址：[](https://github.com/zyqzyq/LazyOrder)
+android版地址：[https://github.com/zyqzyq/LazyOrder](https://github.com/zyqzyq/LazyOrder)
 
 # 快速上手
 
